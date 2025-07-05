@@ -27,17 +27,17 @@ of what each of the values mean.
  */
 
 export const info = {
-    firstName: "John",
-    lastName: "Smith",
-    initials: "js", // the example uses first and last, but feel free to use three or more if you like.
-    position: "a Full Stack Developer",
+    firstName: "Nelson",
+    lastName: "Lu",
+    initials: "NL", // the example uses first and last, but feel free to use three or more if you like.
+    position: "a Visual Media Specialist",
     selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
     gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this either
     baseColor: colors[0],
     miniBio: [ // these are just some "tidbits" about yourself. You can look at mine https://paytonjewell.github.io/#/ for an example if you'd like
         {
-            emoji: '☕',
-            text: 'fueled by coffee'
+            emoji: '🧋',
+            text: 'fueled by Bubble Tea'
         },
         {
             emoji: '🌎',
@@ -45,16 +45,24 @@ export const info = {
         },
         {
             emoji: "💼",
-            text: "Systems Engineer at Google"
+            text: "Freelance Lighting Designer, Photographer, and Videographer"
+        },
+        {
+            emoji: "🎓",
+            text: "Bachelor of Science in Computer Science"
+        },
+        {
+            emoji: "🏫",
+            text: "University of Wisconsin - Madison"
         },
         {
             emoji: "📧",
-            text: "johnsmith@gmail.com"
+            text: "nelsonlu3@gmail.com"
         }
     ],
     socials: [
         {
-            link: "https://facebook.com",
+            link: "https://www.facebook.com/nellyboi18/",
             icon: 'fa fa-facebook',
             label: 'facebook'
         },
@@ -64,20 +72,20 @@ export const info = {
             label: 'instagram'
         },
         {
-            link: "https://github.com",
+            link: "https://github.com/NellyBoi18",
             icon: "fa fa-github",
             label: 'github'
         },
         {
-            link: "https://linkedin.com",
+            link: "https://www.linkedin.com/in/nelsonlu/",
             icon: "fa fa-linkedin",
             label: 'linkedin'
         },
-        {
-            link: "https://twitter.com",
-            icon: "fa fa-twitter",
-            label: 'twitter'
-        }
+        // {
+        //     link: "https://twitter.com",
+        //     icon: "fa fa-twitter",
+        //     label: 'twitter'
+        // }
 // Feel free to remove any of these that you don't have. I'll write an FAQ on how to add new ones later, let me know if you have a request for an icon!
 // Just change the links so that they lead to your social profiles.
 
