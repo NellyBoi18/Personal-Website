@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import Style from './BaseLayout.module.scss'
+import Style from './BaseLayout.module.sass'
 import Navbar from "./Navbar";
 import { useLocation } from "react-router-dom";
 import { Box, Grid } from "@mui/material";
