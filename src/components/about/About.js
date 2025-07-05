@@ -1,5 +1,5 @@
 import React from 'react';
-import Style from './About.module.scss';
+import Style from './About.module.sass';
 import Terminal from "./Terminal";
 import {Box} from "@mui/material";
 import {info} from "../../info/Info";

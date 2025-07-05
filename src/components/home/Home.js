@@ -1,5 +1,5 @@
 import React from 'react';
-import Style from './Home.module.scss';
+import Style from './Home.module.sass';
 import me from '../../img/self.png';
 import classNames from 'classnames';
 import EmojiBullet from "./EmojiBullet";
