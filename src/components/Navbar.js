@@ -1,6 +1,6 @@
 import React from 'react';
 // import { useState } from 'react';
-import Style from './Navbar.module.scss';
+import Style from './Navbar.module.sass';
 import Toggler from "./home/Toggler";
 // import { useLocation } from "react-router-dom";
 import { HashLink as Link } from 'react-router-hash-link';
